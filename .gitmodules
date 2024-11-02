@@ -1,0 +1,6 @@
+[submodule "figi-backend"]
+	path = figi-backend
+	url = https://github.com/elijahfhopp/figi-backend.git
+[submodule "figi-frontend"]
+	path = figi-frontend
+	url = https://github.com/elijahfhopp/figi-frontend.git
